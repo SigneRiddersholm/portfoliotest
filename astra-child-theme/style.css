@@ -12,7 +12,9 @@
  Tags:       Blog, Custom Colors, Custom Logo, Custom Menu, E-Commerce, Editor Style, Entertainment, Featured Images, Full Width Template, Left Sidebar, Microformats, One Column, Post Formats, Right Sidebar, RTL Language Support, Theme Options, Threaded Comments, Translation Ready, Two Columns  
  Text Domain:  astrachildtheme
 */
-
+*{
+    background-color: purple;
+}
 h1.elementor-heading-title.elementor-size-default {
     color: red;
 }
